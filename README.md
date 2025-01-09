@@ -1,9 +1,9 @@
 # Chat-bot
 My chat-bot code
-In the Final Chatbot my fellows also helped me to update my code 
+In the Final Chatbot, my fellows also helped me to update my code 
 **Development Environment: Dev C++ for coding and compilation.**
 Planning of What chatbot do:
-In this project of creating Chabot we friends just assigned a few functions to perform and these functions are:
+In this project of creating Chabot we friend just assigned a few functions to perform and these functions are:
 By Abdullah Ahzam:
 1.	Greetings function
 2.	Math calculation function 
